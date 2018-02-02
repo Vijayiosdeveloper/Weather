@@ -1,0 +1,42 @@
+{
+    "coord": {
+        "lon": -84.74,
+        "lat": 31.56
+    },
+    "weather": [
+                {
+                "id": 502,
+                "main": "Rain",
+                "description": "heavy intensity rain",
+                "icon": "10n"
+                }
+                ],
+    "base": "stations",
+    "main": {
+        "temp": 288.66,
+        "pressure": 1021,
+        "humidity": 87,
+        "temp_min": 288.15,
+        "temp_max": 289.15
+    },
+    "visibility": 4828,
+    "wind": {
+        "speed": 3.81,
+        "deg": 223.002
+    },
+    "clouds": {
+        "all": 90
+    },
+    "dt": 1517543880,
+    "sys": {
+        "type": 1,
+        "id": 756,
+        "message": 0.0136,
+        "country": "US",
+        "sunrise": 1517574659,
+        "sunset": 1517613288
+    },
+    "id": 4192985,
+    "name": "Edison",
+    "cod": 200
+}

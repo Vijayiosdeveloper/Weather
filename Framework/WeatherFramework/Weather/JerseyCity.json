@@ -1,0 +1,54 @@
+{
+    "coord": {
+        "lon": -74.08,
+        "lat": 40.73
+    },
+    "weather": [
+                {
+                "id": 500,
+                "main": "Rain",
+                "description": "light rain",
+                "icon": "10n"
+                },
+                {
+                "id": 301,
+                "main": "Drizzle",
+                "description": "drizzle",
+                "icon": "09n"
+                },
+                {
+                "id": 701,
+                "main": "Mist",
+                "description": "mist",
+                "icon": "50n"
+                }
+                ],
+    "base": "stations",
+    "main": {
+        "temp": 276.55,
+        "pressure": 1011,
+        "humidity": 70,
+        "temp_min": 274.15,
+        "temp_max": 279.15
+    },
+    "visibility": 16093,
+    "wind": {
+        "speed": 2.6,
+        "deg": 320
+    },
+    "clouds": {
+        "all": 90
+    },
+    "dt": 1517543460,
+    "sys": {
+        "type": 1,
+        "id": 1975,
+        "message": 0.0057,
+        "country": "US",
+        "sunrise": 1517573109,
+        "sunset": 1517609728
+    },
+    "id": 5099836,
+    "name": "Jersey City",
+    "cod": 200
+}
